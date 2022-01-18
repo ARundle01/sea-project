@@ -1,6 +1,7 @@
 ## Campus Connect
 
-[Live website](https://campusconnect.me)
+**This website is no longer hosted live, built can still be built locally via NodeJs**
+*[Live website](https://campusconnect.me)*
 
 This project is a social media study web app programmed in React, a JavaScript framework.
 
@@ -25,8 +26,9 @@ This can be done with the `npm run format` command in terminal.
 
 ### Ethics
 
+**This website is no longer hosted live, built can still be built locally via NodeJs**
 We have an extensive privacy policy/terms and conditions hosted on our
-[website](https://campusconnect.me/termsAndConditions)
+*[website](https://campusconnect.me/termsAndConditions)*
 
 ### Running the server
 
