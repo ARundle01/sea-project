@@ -1,5 +1,10 @@
 ## Campus Connect
 
+![GitHub](https://img.shields.io/github/license/ARundle01/sea-project)
+![GitHub repo size](https://img.shields.io/github/repo-size/ARundle01/sea-project)
+![GitHub top language](https://img.shields.io/github/languages/top/ARundle01/sea-project)
+![GitHub language count](https://img.shields.io/github/languages/count/ARundle01/sea-project)
+
 **This website is no longer hosted live, built can still be built locally via NodeJs**
 *[Live website](https://campusconnect.me)*
 
